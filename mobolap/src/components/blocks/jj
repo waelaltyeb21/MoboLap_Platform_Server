@@ -1,0 +1,46 @@
+import React from "react";
+import lofi1 from "../../../public/images/lofi1.jpeg";
+import zoro1 from "../../../public/images/zoro1.jpeg";
+import Link from "next/link";
+import { Button } from "../ui/button";
+import { MagicCard } from "../magicui/magic-card";
+
+const categories = [
+  {
+    id: 1,
+    title: "Mobiles",
+    image: lofi1,
+    content: "",
+    href: "/products?category=mobiles",
+  },
+  {
+    id: 2,
+    title: "Laptops",
+    image: zoro1,
+    content: "",
+    href: "/products?category=laptops",
+  },
+];
+
+const StoreCategories = () => {
+  return (
+    <section className="Store_Categories sm:grid grid-cols-2 gap-6">
+      {categories?.map((category) => (
+        <MagicCard
+          key={category?.id}
+          image={category?.image?.src}
+          className="relative rounded-lg overflow-hidden p-4 min-h-[300px]"
+        >
+          <div className="text-center z-50">
+            <h1 className="text-2xl font-medium">{category?.title}</h1>
+            <Button variant="outline">
+              <Link href={category?.href}>عرض المنتجات</Link>
+            </Button>
+          </div>
+        </MagicCard>
+      ))}
+    </section>
+  );
+};
+
+export default StoreCategories;
