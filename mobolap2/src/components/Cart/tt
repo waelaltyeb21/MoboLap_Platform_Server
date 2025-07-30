@@ -1,0 +1,19 @@
+<div className="p-4 flex items-center gap-2">
+              <div className="Image_Container relative max-h-[120px] overflow-hidden rounded-lg">
+                <Image
+                  src={lofi1}
+                  alt="product_image"
+                  width={120}
+                  height={120}
+                  className="size-full object-cover"
+                />
+              </div>
+              {/* Product Details */}
+              <div className="Details">
+                
+              </div>
+              {/* Remove Product */}
+              <div className="Remove_Product">
+                <X />
+              </div>
+            </div>
