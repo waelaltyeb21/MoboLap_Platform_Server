@@ -1,0 +1,183 @@
+{
+    "Header": {
+        "TextLogo": "Mobolap",
+        "Links": {
+            "home": "Home",
+            "products": "Products",
+            "about": "About",
+            "compare": "Compare",
+            "cart": "Shopping Cart"
+        }
+    },
+    "Features": {
+        "titles": {
+            "delivery": "Delivery Service",
+            "ensurance": "Product Warranty",
+            "payment": "Secure and Flexible Payment",
+            "replacement": "Exchange and Return"
+        },
+        "contents": {
+            "delivery": "We guarantee your order will be delivered on time, whether in the city or remote areas.",
+            "ensurance": "All products come with a long-term warranty against defects.",
+            "payment": "Multiple secure payment options to suit your needs.",
+            "replacement": "Easy exchange and return service within a specified period after receipt."
+        }
+    },
+    "Specifications": {
+        "specs": "Specifications",
+        "brand": "Brand",
+        "ram": "RAM",
+        "storage": "Storage",
+        "cpu": "Processor",
+        "gpu": "Screen Type",
+        "camera": "Camera",
+        "battery": "Battery",
+        "screen": "Display",
+        "os": "Operating System",
+        "price": "Price"
+    },
+    "Actions": {
+        "addToCart": "Add to Cart",
+        "addToCompare": "Add to Compare"
+    },
+    "Notifications": {
+        "addedToCartSuccessfully": "Product added to cart successfully",
+        "existInCartList": "This product is already in your cart",
+        "removedFromCart": "Product has been removed from the cart",
+        "addedToCompareSuccessfully": "Product added to comparison list successfully",
+        "existInCompareList": "This product is already in the comparison list",
+        "failedToAddToCompare": "You have reached the limit of 3 comparisons"
+    },
+    "Sections": {
+        "Hero": {
+            "MainTitle": "Welcome to Mobolap!",
+            "SubTitle": "Discover the latest phones and laptops at the best prices.",
+            "slung": "Technology is now at your fingertips — shop with confidence!",
+            "callToAction": "Shop Now",
+            "Slungs": {
+                "slung1": "Your #1 Destination for Modern Tech 😍",
+                "slung2": "Shop with Confidence ❤️",
+                "slung3": "Technology at Your Fingertips ✅"
+            }
+        },
+        "Features": {
+            "MainTitle": "Why Mobolap?",
+            "SubTitle": "Enjoy a unique shopping experience with exclusive offers, fast shipping, and a quality guarantee on all original products.",
+            "titles": {
+                "delivery": "Delivery Service",
+                "ensurance": "Product Warranty",
+                "payment": "Secure and Flexible Payment",
+                "replacement": "Exchange and Return"
+            },
+            "contents": {
+                "delivery": "We guarantee timely delivery of your order, whether within the city or to remote areas.",
+                "ensurance": "All products come with a long-term warranty against defects.",
+                "payment": "Secure and flexible payment options to suit your needs.",
+                "replacement": "Easy exchange and return service within a set period after receipt."
+            }
+        },
+        "HowItWorks": {
+            "MainTitle": "How to order from the store?",
+            "SubTitle": "Four simple and quick steps to order products from the store",
+            "StepsTitles": {
+                "SelectProducts": "Choose Products",
+                "AddToCart": "Add to Cart",
+                "FillTheForm": "Complete Information",
+                "SendViaWhatsapp": "Send Order via WhatsApp"
+            },
+            "StepsContent": {
+                "SelectProducts": "Choose the products you wish to purchase and browse the specifications and reviews to help you decide.",
+                "AddToCart": "Add the products to your shopping cart to complete the order at your convenience.",
+                "FillTheForm": "Enter your delivery details accurately (name, address, and phone number) to ensure fast and error-free delivery.",
+                "SendViaWhatsapp": "Click the 'Order via WhatsApp' button to send your order details directly to the support team and complete the purchase easily and quickly."
+            }
+        },
+        "FAQ": {
+            "MainTitle": "Frequently Asked Questions About the Store",
+            "SubTitle": "Here you'll find answers to the most common questions about our products, shipping, warranty, and payment and return policies.",
+            "QuestionTitle": {
+                "returnPolicy": "What is your return policy?",
+                "warranty": "Do you provide a warranty for phones and laptops?",
+                "howlong": "How long does delivery take?",
+                "cahshOnDelivery": "Can I pay on delivery?",
+                "installments": "Can I pay for the phone or laptop in installments?",
+                "guaranteed": "Are the devices original and guaranteed?",
+                "trackOrder": "How can I track my order?"
+            },
+            "QuestionAnswer": {
+                "returnPolicy": "You can return the product within 14 days of receipt, provided it is in its original condition and accompanied by the invoice.",
+                "warranty": "Yes, all products come with at least a one-year warranty against manufacturing defects.",
+                "howlong": "Delivery takes 2 to 5 business days within the country, depending on the region.",
+                "cahshOnDelivery": "Yes, we offer Cash on Delivery in some cities. You can check availability during checkout.",
+                "installments": "We offer easy installment plans through our banking partners, which you can view during the purchase process.",
+                "guaranteed": "Yes, we sell 100% original devices from authorized distributors, each with a warranty certificate.",
+                "trackOrder": "Once the order is shipped, you will receive an SMS or email with a tracking number and link."
+            }
+        },
+        "Categories": {
+            "callToAction": "View Products",
+            "موبايلات": "Mobiles",
+            "لابتوبات": "Laptops",
+            "تابلت": "Tablets"
+        },
+        "Cart": {
+            "productImage": "Product Image",
+            "product": "Product",
+            "price": "Price",
+            "quantity": "Quantity",
+            "total": "Total",
+            "productsTotal": "Order Total",
+            "continueShopping": "Continue Shopping",
+            "mainTitle": "Shopping Cart",
+            "placeOrder": "Place Order",
+            "EmptyCart": {
+                "title": "Your cart is empty",
+                "subTitle": "Browse products and add them to your cart",
+                "link": "Go to Products Page"
+            }
+        },
+        "Compare": {
+            "mainTitle": "Product Comparison List",
+            "EmptyCompare": {
+                "title": "No products to compare",
+                "subTitle": "Add products to compare",
+                "link": "Go to Products Page"
+            }
+        },
+        "Products": {
+            "PreviewProducts": {
+                "MainTitle": "Relavent Products From The Same Brand"
+            }
+        },
+        "CheckOut": {
+            "MainTitle": "Complete Your Purchase",
+            "SubTitle": "Please fill out the following information to complete your order successfully. Make sure the details are accurate to avoid any delivery delays.",
+            "OrderForm": {
+                "name": "Full Name",
+                "phone": "Phone Number",
+                "secondPhone": "Alternative Phone Number",
+                "address": "Residential Area",
+                "addressPlaceholder": "District / Neighborhood",
+                "placeDescription": "Brief Description of Delivery Location",
+                "deliveryPlaceholder": "Block 15, Sports City, New East University",
+                "payment": "Payment Method",
+                "paymentPlaceholder": "Choose a payment method",
+                "paymentMethods": {
+                    "cash": "Cash on Delivery",
+                    "prepaid": "Prepaid"
+                },
+                "note": "Note",
+                "optinal": "Optional",
+                "notePlaceholder": "I want a case and screen protector",
+                "placeOrder": "Send Order via WhatsApp",
+                "store": "Mobolap",
+                "newOrder": "New Order 🛒",
+                "products": "Products",
+                "total": "Total"
+            }
+        }
+    },
+    "Footer": {
+        "copyRights": "All rights reserved to Mobolap Store"
+    }
+}
